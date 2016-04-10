@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LevelUp.T4Culture</id>
+    <version>1.0.0</version>
+    <authors>LarryNung</authors>
+    <owners>LarryNung</owners>
+    <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://larrynung.github.io/</projectUrl>
+    <description>Generate culture helper class to avoid magic string</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>T4 Culture</tags>
+  </metadata>
+    <files>
+    <file src="T4Culture.tt" target="Content" />
+  </files>
+</package>
