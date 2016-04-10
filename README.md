@@ -1,7 +1,7 @@
 # LevelUp.T4Culture
 Generate culture helper class to avoid magic string
 
-Step
+Step  
 1. Add LevelUp.T4Culture from nuget  
 2. Run T4 template to generate helper class  
 3. Use culture with helper class
