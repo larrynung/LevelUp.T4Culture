@@ -6,8 +6,8 @@
     <authors>LarryNung</authors>
     <owners>LarryNung</owners>
     <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
-    <projectUrl>http://larrynung.github.io/</projectUrl>
-    <description>Generate culture helper class to avoid magic string</description>
+    <projectUrl>https://github.com/larrynung/LevelUp.T4Culture</projectUrl>
+    <description>Generate culture helper class to use culture without hardcode</description>
     <copyright>Copyright 2016</copyright>
     <tags>T4 Culture</tags>
   </metadata>
