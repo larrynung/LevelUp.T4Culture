@@ -9,8 +9,6 @@ Step
     ...
     var currentThread = Thread.CurrentThread;
     currentThread.CurrentCulture = CultureInfo.GetCultureInfo(CultureNames.ZH_TW);
-    
-    Console.WriteLine(currentThread.CurrentCulture.Name);
     ...
 
 Link
